@@ -14,7 +14,7 @@
 
 <script>
 // import HelloWorld from "./components/HelloWorld";
-import NavBar from '@/components/Navbar.vue';
+import NavBar from "@/components/Navbar.vue";
 import "./assets/stylesheets/main.css";
 
 export default {
